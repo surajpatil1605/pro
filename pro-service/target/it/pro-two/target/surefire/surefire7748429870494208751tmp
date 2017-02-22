@@ -1,0 +1,25 @@
+#surefire
+#Wed Feb 22 17:09:31 IST 2017
+testClassesDirectory=/Users/suraj/Documents/suhas/workspace/Projects/suraj/pro-service/target/it/pro-two/target/test-classes
+classPathUrl.3=/Users/suraj/Documents/suhas/workspace/Projects/suraj/pro-service/target/pro-service-1.0-SNAPSHOT.jar
+classPathUrl.2=/Users/suraj/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/suraj/Documents/suhas/workspace/Projects/suraj/pro-service/target/it/pro-two/target/classes
+reportsDirectory=/Users/suraj/Documents/suhas/workspace/Projects/suraj/pro-service/target/it/pro-two/target/surefire-reports
+classPathUrl.0=/Users/suraj/Documents/suhas/workspace/Projects/suraj/pro-service/target/it/pro-two/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/Users/suraj/Documents/suhas/workspace/Projects/suraj/pro-service/target/it/pro-two/src/test/java
+surefireClassPathUrl.1=/Users/suraj/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/Users/suraj/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.suraj.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/Users/suraj/Documents/suhas/workspace/Projects/suraj/pro-service/target/it/pro-two/.surefire-173DF84D61B09E893C2057DF0D96BE39C57BFD65
+includes0=**/Test*.java
+childDelegation=false
